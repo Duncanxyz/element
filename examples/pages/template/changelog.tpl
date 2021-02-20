@@ -179,6 +179,7 @@
         }
       }
       fragments = fragments.replace(/#(\d+)/g, '<a href="https://github.com/ElemeFE/element/issues/$1" target="_blank">#$1</a>');
+      fragments = fragments.replace(/#yd-(\d+)/g, '<a href="https://github.com/YDFE/element/issues/$1" target="_blank">#yd-$1</a>');
       fragments = fragments.replace(/@(\w+)/g, '<a href="https://github.com/$1" target="_blank">@$1</a>');
       this.$refs.timeline.innerHTML = `${fragments}</li>`;
 
