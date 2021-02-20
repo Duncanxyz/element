@@ -1,5 +1,14 @@
 ## Changelog
 
+### 2.13.0-yd.1
+
+*2021-02-19*
+
+#### New features
+
+- Cascader
+  - 新增插槽 suggestion (#yd-1 by @Duncanxyz)
+
 ### 2.13.0
 
 *2019-11-26*
