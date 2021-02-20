@@ -1,5 +1,12 @@
 ## Changelog
 
+### 2.13.0-yd.3.alpha.1
+*2021-02-20*
+
+#### New features
+
+- Input: 修改 append 和 prepend 的文本颜色
+
 ### 2.13.0-yd.3.alpha
 *2021-02-20*
 
