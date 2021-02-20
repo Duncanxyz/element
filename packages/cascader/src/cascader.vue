@@ -98,7 +98,7 @@
               ]"
               :tabindex="-1"
               @click="handleSuggestionClick(index)">
-              <span>{{ item.text }}</span>
+              <span><slot name="suggestion" :node="item" :query="inputValue">{{ item.text }}</slot></span>
               <i v-if="item.checked" class="el-icon-check"></i>
             </li>
           </template>
