@@ -12,7 +12,7 @@
 
 #### 新特性
 
-- ThemeChalk: 修改文本颜色的变量 (#yd-11 by @Duncanxyz)
+- ThemeChalk: 修改边框颜色的变量 (#yd-11 by @Duncanxyz)
 - Select: 修改多选下 tag 的文本颜色 (#yd-12 by @Duncanxyz)
 - Cascader: 修改多选下 tag 的文本颜色 (#yd-12 by @Duncanxyz)
 
