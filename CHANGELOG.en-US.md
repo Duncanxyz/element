@@ -1,5 +1,16 @@
 ## Changelog
 
+### 2.13.0-yd.2
+*2021-02-20*
+
+#### New features
+
+- ThemeChalk: 修改了文本和边框颜色的变量 (#yd-7 by @Duncanxyz)
+
+#### Bug fixes
+
+- Select: 修复选中标签的关闭按钮 icon 颜色被覆盖 (#yd-6 by @Duncanxyz)
+
 ### 2.13.0-yd.1
 
 *2021-02-19*
