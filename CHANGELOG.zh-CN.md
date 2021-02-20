@@ -1,5 +1,14 @@
 ## 更新日志
 
+### 2.13.0-yd.3.alpha
+*2021-02-20*
+
+#### 新特性
+
+- ThemeChalk: 修改文本颜色的变量 (#yd-11 by @Duncanxyz)
+- Select: 修改多选下 tag 的文本颜色 (#yd-12 by @Duncanxyz)
+- Cascader: 修改多选下 tag 的文本颜色 (#yd-12 by @Duncanxyz)
+
 ### 2.13.0-yd.2
 *2021-02-20*
 
