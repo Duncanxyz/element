@@ -5,7 +5,7 @@
 
 #### 新特性
 
-- Input: 修改 append 和 prepend 的文本颜色
+- Input: 修改 append 和 prepend 的文本颜色 (#yd-16 by @Duncanxyz)
 
 ### 2.13.0-yd.3.alpha
 *2021-02-20*
