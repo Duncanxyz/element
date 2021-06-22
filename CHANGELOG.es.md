@@ -1,5 +1,12 @@
 ## Changelog
 
+### 2.13.0-yd.4
+*2021-06-22*
+
+#### Bug fixes
+
+- Cascader: fix lazy load make checked mess (#yd-22 by @Duncanxyz)
+
 ### 2.13.0-yd.3.alpha.1
 *2021-02-20*
 
